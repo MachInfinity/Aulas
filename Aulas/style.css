@@ -1,0 +1,44 @@
+body{
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 2.2em;
+    color: rgb(49, 49, 49);
+    margin: 2%;
+}
+
+header{
+    background-color: #B90826;
+    margin: 0%;
+    padding: 20px;
+}
+
+section, footer{
+    margin: 0%;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    color: #faf7fa;
+    text-transform: uppercase;
+    padding: 50px;
+    text-align: center;
+    margin: 0%;
+}
+
+h2{
+    font-size: 21px;
+    color: rgb(135, 255, 255);
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+section h3{
+    background-color: #ffffff;
+    margin: 0%;
+}
+
+section h4{
+    margin: 60px;
+}
